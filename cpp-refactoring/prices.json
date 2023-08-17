@@ -1,0 +1,17 @@
+{
+    "tragedy": {
+        "baseCost" : 40000,
+        "audienceThreshold": 30,
+        "audienceThresholdFee": 0,
+        "audienceCostFactor": 1000,
+        "audienceFactor": 0
+    },
+    
+    "comedy": {
+        "baseCost" : 30000,
+        "audienceThreshold": 20,
+        "audienceThresholdFee": 10000,
+        "audienceCostFactor": 500,
+        "audienceFactor": 300
+    }
+}
